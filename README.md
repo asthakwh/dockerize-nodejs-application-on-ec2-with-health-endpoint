@@ -1,7 +1,7 @@
 # dockerize-nodejs-application-on-ec2-with-health-endpoint
 
 
-mkdir node-health-app
+    mkdir node-health-app
 cd node-health-app
 nnpm init -y
 nnpm install express
