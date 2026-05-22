@@ -6,7 +6,8 @@
     nnpm init -y
     nnpm install express
     vim index.js
-----
+----This is index.js file we need to create for deploy 
+
     const express = require('express');
     const app = express();
 
